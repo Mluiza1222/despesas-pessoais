@@ -1,0 +1,17 @@
+table, tr, td{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+.largura{
+    background-color: green;
+    color: whitesmoke;
+}
+
+#largColuna{
+    width: 200px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
